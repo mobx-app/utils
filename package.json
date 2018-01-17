@@ -1,0 +1,23 @@
+{
+  "name": "@mobx-app/utils",
+  "version": "0.0.1",
+  "description": "Utility helpers for mobx-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobx-app/utils.git"
+  },
+  "keywords": [
+    "mobx-app",
+    "utils"
+  ],
+  "author": "Artur Smirnov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobx-app/utils/issues"
+  },
+  "homepage": "https://github.com/mobx-app/utils#readme"
+}
